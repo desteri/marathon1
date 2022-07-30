@@ -54,7 +54,7 @@ body {
   transition: opacity .3s ease-in .4s;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 768px) {
   body {
     align-items:stretch;
   }
